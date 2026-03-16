@@ -1,0 +1,12 @@
+{
+  "GORRA-DEMO001": {
+    "uid": "GORRA-DEMO001",
+    "model": "Snapback Classic",
+    "batch": "LOTE-2025-A",
+    "color": "Negro / Lima",
+    "size": "Talla única",
+    "created": "2025-01",
+    "secret": "GORRA-DEMO001_vault_secret",
+    "scans": []
+  }
+}
